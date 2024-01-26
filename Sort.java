@@ -5,6 +5,7 @@ public class Sort {
     int[] array = { 12, 3, 5, 2, 19 };
     System.out.println("before");
     printArray(array);
+    printArray(array);
 
     for (int i = 1; i < array.length; i++) {
 
